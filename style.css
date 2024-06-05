@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(210, 161, 255, 0.7);
+    height: 100vh;
+
+}
+
+/* Тестування елемента */
+h1 {
+    color: #333;
+}
+
+.switch-container {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    display: inline-block;
+}
+
+.switch-container div {
+    margin: 10px 0;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #333;
+}
